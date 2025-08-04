@@ -1,0 +1,14 @@
+baseURL: https://rajkumarv.com/
+languageCode: en-IN
+title: Vignesh Rajkumar
+theme: papermod
+
+params:
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  homeInfoParams:
+    Title: Hello!
+    Content: I'm Vignesh Rajkumar, an experienced technology leader with a wealth of practical expertise in driving solutions through Software and DevOps Engineering. I have worked closely with a diverse range of organizations, spanning from large enterprises to startups of varying sizes. I write about engineering management, enterprise architecture and tech problems I’ve solutionized.
+  socialIcons:
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/vigneshrajkumar"
