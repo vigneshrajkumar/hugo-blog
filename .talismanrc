@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: themes/papermod
+  checksum: 7236bb40fa715e7bec2e84740d1b9625bb8eda3167a53f8a54da9db00abc8f37
+- filename: .github/workflows/hugo.yaml
+  checksum: 642c74bf70e5d3bc4be0ddf64b755b4d2139ea5e57d4d557f1290e607a0aa387

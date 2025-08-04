@@ -2,7 +2,9 @@ baseURL: https://rajkumarv.com/
 languageCode: en-IN
 title: Vignesh Rajkumar
 theme: papermod
-
+caches:
+  images:
+    dir: :cacheDir/images
 params:
   ShowReadingTime: true
   ShowBreadCrumbs: true
